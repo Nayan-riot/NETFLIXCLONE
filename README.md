@@ -1,2 +1,4 @@
 # NETFLIXCLONE
-This is a netflix clone made by me
+This is a netflix clone
+<br>
+made by:- Nayan Adhikari
